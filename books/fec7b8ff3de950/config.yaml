@@ -1,0 +1,15 @@
+title: "React + Go ハンズオン"
+summary: "Go の勉強を兼ねて、React + Go の個人ブログアプリの作成過程を覚書として残しました。"
+topics:
+  - "go"
+  - "react"
+  - "ハンズオン"
+published: true
+price: 0
+toc_depth: 2
+chapters:
+  - "fbb147"
+  - "4323cd"
+  - "2ecc70"
+  - "d6260d"
+  - "d2a9fb"
